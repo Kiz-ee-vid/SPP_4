@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SrV0c47ubLGUBe6QoZhrJfjuLriU/3a7AsSkjuEUWn+p6Oy4lv+azdkdC8okzCf52sKkFJOtby2m1J8OI7CqYw==",
+  "dgSpecHash": "T9lXdv3ZC2EFV1wBAxwaWwr10yRvfLmZ5bOr3PRxfdn4NmrBnxfHXq3BYOfDd99Op3zOLqQof8jh+REZ6XBNqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ILLU\\Downloads\\SPP4-TestsGenerator-master\\SPP4-TestsGenerator-master\\TestsGenerator.Lib\\TestsGenerator.Lib.csproj",
+  "projectFilePath": "C:\\Users\\ILLU\\source\\repos\\SPP_4\\TestsGenerator.Lib\\TestsGenerator.Lib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ILLU\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
     "C:\\Users\\ILLU\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.0-6.final\\microsoft.codeanalysis.common.4.0.0-6.final.nupkg.sha512",

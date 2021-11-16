@@ -603,11 +603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ILLU\\Downloads\\SPP4-TestsGenerator-master\\SPP4-TestsGenerator-master\\TestsGenerator.Lib\\TestsGenerator.Lib.csproj",
+      "projectUniqueName": "C:\\Users\\ILLU\\source\\repos\\SPP_4\\TestsGenerator.Lib\\TestsGenerator.Lib.csproj",
       "projectName": "TestsGenerator.Lib",
-      "projectPath": "C:\\Users\\ILLU\\Downloads\\SPP4-TestsGenerator-master\\SPP4-TestsGenerator-master\\TestsGenerator.Lib\\TestsGenerator.Lib.csproj",
+      "projectPath": "C:\\Users\\ILLU\\source\\repos\\SPP_4\\TestsGenerator.Lib\\TestsGenerator.Lib.csproj",
       "packagesPath": "C:\\Users\\ILLU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ILLU\\Downloads\\SPP4-TestsGenerator-master\\SPP4-TestsGenerator-master\\TestsGenerator.Lib\\obj\\",
+      "outputPath": "C:\\Users\\ILLU\\source\\repos\\SPP_4\\TestsGenerator.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
