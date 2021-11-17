@@ -14,11 +14,13 @@ namespace TestsGenerator
             List<string> FilesPath = new List<string>() 
             {
                 "../../../NUnitTests/TestFile1.cs",
-           //     "../../../NUnitTests/TestFile2.cs"
+           //    "../../../NUnitTests/TestFile2.cs"
             };
 
             Parallel p = new Parallel(new PipelineConfiguration(1, 1, 1));
             await p.Execute(FilesPath, FolderPath);
+            Console.WriteLine("Classes Generated");
+            Console.ReadLine();
         }
     }
 }

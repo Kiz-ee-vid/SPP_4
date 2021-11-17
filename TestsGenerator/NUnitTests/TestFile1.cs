@@ -1,12 +1,12 @@
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Collections.Generic;
+using NUnit.Framework;
+using NUnitTests;
 
 namespace TestSpace
 {
-    class myClass
+    class myClass1
     {
 
         public int DoSomething(int a)
@@ -15,9 +15,17 @@ namespace TestSpace
             return a;
         }
 
-        public void doSomethingPublic(string b)
+        public void DoSomething2(string b)
         {
             Console.WriteLine(b);
+        }
+    }
+
+    class myClass2
+    {
+        public void DoSomething3(double c)
+        {
+            int k = 3 + 2;
         }
     }
 }
